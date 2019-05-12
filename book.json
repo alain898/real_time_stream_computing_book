@@ -1,0 +1,14 @@
+{
+  "gitbook": "3.x",
+  "title": "实时流处理",
+  "description": "实时流处理",
+  "language": "zh-hans",
+  "structure": {
+    "readme": "preface.md"
+  },
+  "plugins": [
+    "katex",
+    "-search",
+    "mathjax"
+  ]
+}
