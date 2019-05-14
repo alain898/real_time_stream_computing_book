@@ -7,7 +7,7 @@
 安装`gitbook`和`pdf`插件工具后，执行以下命令：
 
 ```bash
-gitbook pdf real_time_computing_book ./real_time_computing_book.pdf
+gitbook pdf real_time_stream_computing_book ./real_time_stream_computing_book.pdf
 ```
 
 

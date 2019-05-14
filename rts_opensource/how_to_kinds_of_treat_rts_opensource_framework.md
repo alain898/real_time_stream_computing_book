@@ -1,8 +1,8 @@
 # 如何面对琳琅满目的流计算框架
 
-其实除了前面章节中介绍的三种开源流计算框架外，还有很多其它的流计算框架或平台，比如Apache Samza、Akka Streaming、Apache Beam等等。
+其实除了前面章节中介绍的三种开源流计算框架外，还有很多其它的流计算框架或平台，比如Apache Samza、Akka Streams、Apache Beam等等。
 这些流计算框架各有特色，比如Apache Samza充分利用Kafka消息中间的特性，并使用Hadoop Yarn作分布式任务管理，解决方案轻量方便。
-Akka Streaming则支持丰富灵动的流计算编程API，可谓惊艳卓卓。
+Akka Streams则支持丰富灵动的流计算编程API，可谓惊艳卓卓。
 而Apache Beam则是流计算模式的集大成者，大有准备一统流计算江湖的势头。
 
 既然有这么多的流计算框架，那我们该如何面对琳琅满目的流计算框架呢？可以从两个角度来看待这个问题。
