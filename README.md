@@ -5,14 +5,18 @@
 本书目前已经由机械工业出版社出版，内容更加完整和准确。
 感兴趣的读者可以在京东、淘宝、当当各平台搜索 ***《实时流计算系统设计与实现》*** 一书。
 
+* [京东](https://item.jd.com/65278396916.html)
+
+* [淘宝](https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.11.3a4d2b39dvQG8k&id=611552558165&areaId=310100&user_id=1049653664&cat_id=2&is_b=1&rn=256855d25e0c9646b31479ea06b156c4)
+
+
+***《实时流计算系统设计与实现》***
+
 <div align="center">
 <img src="images/实时流计算系统设计与实现.jpg" width="50%"/>
 <div style="text-align: center; font-size:50%"></div>
 </div>
 
-[京东](https://item.jd.com/65278396916.html)
-
-[淘宝](https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.11.3a4d2b39dvQG8k&id=611552558165&areaId=310100&user_id=1049653664&cat_id=2&is_b=1&rn=256855d25e0c9646b31479ea06b156c4)
 
 ## 构建pdf
 
